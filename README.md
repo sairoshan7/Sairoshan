@@ -1,6 +1,6 @@
 # Hi, I'm Sai Roshan 👋
 
-**Software Engineer** | Java · Spring Boot · PostgreSQL · Backend Development
+**Associate Software Engineer** | Java · Spring Boot · PostgreSQL · Backend Development
 
 Based in India. I build scalable backend applications for enterprise systems, focusing on REST API development, workflow automation, database design, and production reliability.
 
