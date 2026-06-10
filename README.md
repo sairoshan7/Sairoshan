@@ -43,7 +43,7 @@ Currently working on enterprise telecom applications, delivering backend solutio
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-sairoshan7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sairoshan7)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -91,9 +91,9 @@ Enterprise platform supporting fiber deployment and telecom provisioning workflo
 
 ## GitHub Stats
 
-![Sai Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sairoshan&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Sai Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairoshan7&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairoshan&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairoshan7&layout=compact&theme=dark&hide_border=true)
 
 ---
 
