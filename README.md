@@ -99,14 +99,18 @@ Enterprise platform supporting fiber deployment and telecom provisioning workflo
 
 ## LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/saranroshan7?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/u/saranroshan7/)
 
 ---
 
+
+
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Roshan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-roshan-a6b9a621a/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sairoshan)
+[![GitHub](https://img.shields.io/badge/GitHub-Sairoshan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sairoshan)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-saranroshan7-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/saranroshan7/)
+
+[![Email](https://img.shields.io/badge/Email-saranroshan7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saranroshan7@gmail.com)
